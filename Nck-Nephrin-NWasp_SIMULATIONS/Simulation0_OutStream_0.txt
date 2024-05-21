@@ -1,0 +1,15 @@
+Simulation 0% complete. Elapsed time: 0.000 sec.
+Simulation 1% complete. Elapsed time: 2 min. 18.687 sec.
+Simulation 2% complete. Elapsed time: 4 min. 36.486 sec.
+Simulation 3% complete. Elapsed time: 7 min. 0.287 sec.
+Simulation 4% complete. Elapsed time: 9 min. 27.005 sec.
+Simulation 5% complete. Elapsed time: 11 min. 57.142 sec.
+Simulation 6% complete. Elapsed time: 14 min. 22.946 sec.
+Simulation 7% complete. Elapsed time: 16 min. 43.229 sec.
+Simulation 8% complete. Elapsed time: 19 min. 4.625 sec.
+Simulation 9% complete. Elapsed time: 21 min. 28.417 sec.
+Simulation 10% complete. Elapsed time: 23 min. 58.986 sec.
+Simulation 11% complete. Elapsed time: 26 min. 34.219 sec.
+Simulation 12% complete. Elapsed time: 29 min. 4.037 sec.
+Simulation 13% complete. Elapsed time: 31 min. 41.905 sec.
+Simulation 14% complete. Elapsed time: 34 min. 20.587 sec.
